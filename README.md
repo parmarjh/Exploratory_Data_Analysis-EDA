@@ -4,7 +4,7 @@
 
 ![Pair Plots](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/4.2.3%20Pair%20Plots.png)
 
-## &nbsp; 2D Scatter Plot &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2D Scatter Plot with Legend ##
+## &nbsp; 2D Scatter Plot &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2D Scatter Plot with Color Coding ##
 
 ![2D Scatter Plot](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/4.1.1%202D%20Scatter%20Plot.png) &nbsp; &nbsp; &nbsp; ![2D Scatter Plot with Legend](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/4.2.2%202D%20Scatter%20with%20Legend.png)
 

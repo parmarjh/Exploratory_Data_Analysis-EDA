@@ -1,16 +1,12 @@
-# Exploratory_Data_Analysis-EDA #
+# Exploratory Data Analysis #
 
-## Age PDF ##
+## Multi-variate Analysis ##
 
-![Age PDF](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/3.1.1%20Age%20PDF.png)
+![Pair Plots](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/4.2.3%20Pair%20Plots.png)
 
-## Year PDF ##
+## &nbsp; 2D Scatter Plot &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2D Scatter Plot with Legend ##
 
-![Year PDF](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/3.1.2%20Year%20PDF.png)
-
-## Nodes PDF ##
-
-![Nodes PDF](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/3.1.3%20Nodes%20PDF.png)
+![2D Scatter Plot](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/4.1.1%202D%20Scatter%20Plot.png) &nbsp; &nbsp; &nbsp; ![2D Scatter Plot with Legend](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/4.2.2%202D%20Scatter%20with%20Legend.png)
 
 ## CDF ##
 
@@ -24,17 +20,11 @@
 
 ![Violin Plot](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/3.4%20Violin%20Plot.png)
 
-## 2D Scatter Plot ##
+## Age PDF &nbsp; &nbsp; &nbsp; Year PDF &nbsp; &nbsp; &nbsp; Nodes PDF ##
 
-![2D Scatter Plot](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/4.1.1%202D%20Scatter%20Plot.png)
+![Age PDF](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/3.1.1%20Age%20PDF.png) ![Year PDF](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/3.1.2%20Year%20PDF.png) ![Nodes PDF](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/3.1.3%20Nodes%20PDF.png)
 
-## 2D Scatter Plot with Legend ##
 
-![2D Scatter Plot with Legend](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/4.2.2%202D%20Scatter%20with%20Legend.png)
-
-## Pair Plots ##
-
-![Pair Plots](https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/4.2.3%20Pair%20Plots.png)
 
 
 

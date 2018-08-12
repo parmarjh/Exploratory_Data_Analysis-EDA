@@ -25,7 +25,9 @@
 
 ### Age PDF &nbsp; &nbsp; &nbsp; Year PDF &nbsp; &nbsp; &nbsp; Nodes PDF ###
 
-<img src="https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/Images/3.1.1AgePDF.png width="400"> <img src="https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/Images/3.1.2YearPDF.png width="400"> <img src="https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/Images/3.1.3NodesPDF.png width="400">
+<img src="https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/Images/3.1.1AgePDF.png" width="300"> 
+<img src="https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/Images/3.1.2YearPDF.png" width="300"> 
+<img src="https://github.com/AdroitAnandAI/Exploratory_Data_Analysis-EDA/blob/master/Images/3.1.3NodesPDF.png" width="300">
 
 
 
